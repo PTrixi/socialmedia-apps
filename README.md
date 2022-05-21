@@ -10,4 +10,4 @@ cd socialmedia-apps
 sudo mv instagram whatsapp pinterest /usr/bin
 ```
 </br>
-Now that you moved the files, all you need to do is change the line that says brave to whatever chromium browser you want. Also you can change the website link to whatever website you want.
+Now that you moved the files, you can change the line that says brave to whatever chromium browser you want. Also you can change the website link to whatever website you want.
